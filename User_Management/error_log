@@ -1,0 +1,17 @@
+[12-Nov-2021 09:12:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 42
+[12-Nov-2021 09:13:22 UTC] PHP Notice:  Undefined index: key in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 18
+[12-Nov-2021 09:31:20 UTC] PHP Notice:  Undefined variable: conn in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 8
+[12-Nov-2021 09:31:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 8
+[12-Nov-2021 09:31:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 9
+[12-Nov-2021 09:32:51 UTC] PHP Notice:  Undefined variable: conn in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 8
+[12-Nov-2021 09:32:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 8
+[12-Nov-2021 09:32:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 9
+[12-Nov-2021 09:34:17 UTC] PHP Notice:  Undefined variable: conn in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 8
+[12-Nov-2021 09:34:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 8
+[12-Nov-2021 09:34:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/kct5xsr2wlwz/public_html/cj/loginsystem/reset-password.php on line 9
+[12-Nov-2021 10:12:03 UTC] PHP Notice:  Undefined index: file in /home/kct5xsr2wlwz/public_html/cj/loginsystem/edit-profile.php on line 14
+[12-Nov-2021 10:13:54 UTC] PHP Notice:  Undefined index: file in /home/kct5xsr2wlwz/public_html/cj/loginsystem/edit-profile.php on line 14
+[12-Nov-2021 10:32:37 UTC] PHP Notice:  Undefined index: file in /home/kct5xsr2wlwz/public_html/cj/loginsystem/edit-profile.php on line 14
+[12-Nov-2021 10:53:17 UTC] PHP Notice:  Undefined index: file in /home/kct5xsr2wlwz/public_html/cj/loginsystem/edit-profile.php on line 14
+[12-Nov-2021 11:06:13 UTC] PHP Notice:  Undefined index: id in /home/kct5xsr2wlwz/public_html/cj/loginsystem/change-password.php on line 3
+[12-Nov-2021 11:32:30 UTC] PHP Notice:  Undefined index: file in /home/kct5xsr2wlwz/public_html/cj/loginsystem/edit-profile.php on line 14
